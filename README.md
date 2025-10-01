@@ -3,7 +3,7 @@ Sistema de gestión de stock con login y GUI.
 
 ## Instalación
 1. Instala las librerías: pip install -r requirements.txt
-2. Ejecuta: python src/main.py
+2. Ejecuta: python -m src/main.py
 
 ## Uso
 Usa el usuario por defecto: admin con contraseña admin123. 
